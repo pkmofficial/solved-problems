@@ -25,10 +25,10 @@
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1|[minimum and maximum element in n array](https://practice.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1/)|[cpp](./Geeksforgeeks/minmaxElemArray.cpp)|easy|
-||[]()|[cpp]()|easy|
-||[]()|[cpp]()|easy|
-||[]()|[cpp]()|easy|
-||[]()|[cpp]()|easy|
+|2|[Cyclically rotate an array by one](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1/?page=1&category[]=Arrays&curated[]=2&sortBy=submissions#problems)|[cpp](./Geeksforgeeks/cyclicrotateArrayByOne.cpp)|easy|
+||[]()|[cpp](./Geeksforgeeks/)|easy|
+||[]()|[cpp](./Geeksforgeeks/)|easy|
+||[]()|[cpp](./Geeksforgeeks/)|easy|
 ||[]()|[cpp]()|easy|
 ||[]()|[cpp]()|easy|
 ||[]()|[cpp]()|easy|
